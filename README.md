@@ -70,7 +70,7 @@ SafeSpace Copilot is a **fully no-code** conversational AI agent built in **Micr
 └────────────────────┘  └────────────────────────┘
 ```
 
-![Architecture Diagram](architecture.png)
+![[Architecture Diagram](https://claude.ai/public/artifacts/bc864565-0178-45d4-96ad-12fb3e1b5fcb)]
 
 ---
 
