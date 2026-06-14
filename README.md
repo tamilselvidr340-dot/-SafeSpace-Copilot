@@ -147,8 +147,6 @@ All topics are built using Copilot Studio's visual node editor. Build in this or
 | 4th | Wellness Tips | Message (×3), Question, Condition Group |
 | 5th (last) | Greeting | Question, Condition Group, Redirect (×4) |
 
-> See `/docs/step-by-step-build-guide.md` for the complete no-code build instructions.
-
 ---
 
 ### Step 4 — Test the Agent
