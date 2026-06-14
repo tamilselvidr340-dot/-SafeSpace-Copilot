@@ -20,7 +20,7 @@ SafeSpace Copilot is a **fully no-code** conversational AI agent built in **Micr
 
 ## 🎬 Demo Video
 
-▶️ **[Watch the full demo on YouTube](#)**
+▶️ https://www.youtube.com/watch?v=xHWSWdSge2U
 
 
 > 📌 Demo recorded using the Microsoft Copilot Studio built-in test panel,
